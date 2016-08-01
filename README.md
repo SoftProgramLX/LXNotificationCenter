@@ -1,5 +1,4 @@
 # LXNotificationCenter
-Own package of a notice to achieve two-way value, can be multi to multi value, changing the system only provides a one-way to multi value transmission mechanism
 
 自己写了一个通知实现双向传值，而系统的NSNotificationCenter只实现了单项传值。
 关键代码如下：
