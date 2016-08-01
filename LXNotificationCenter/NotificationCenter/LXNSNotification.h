@@ -2,7 +2,7 @@
 //  LXNSNotification.h
 //  封装通知
 //
-//  Created by qianfeng on 14-9-26.
+//  Created by apple on 14-9-26.
 //  Copyright (c) 2014年 lixu. All rights reserved.
 //
 
